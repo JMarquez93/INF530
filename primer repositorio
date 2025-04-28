@@ -1,0 +1,8 @@
+<?php
+
+echo "hola mundo";
+$nomnbre= "pablo";
+$altura = "1.60";
+
+
+  
